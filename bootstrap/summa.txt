@@ -1,0 +1,24 @@
+<!--About-us-->
+    <div id="aboutus" class="m-1 p-1">
+        <div class="container">
+            <h1 class="fw-bold">🍎ABOUT US</h1>
+            <p><em>At FreshHarvest Fruits, we believe that nature’s sweetest gift should be enjoyed at its best. Our journey began with a simple idea: to bring farm-fresh, seasonal fruits directly to your table, just the way nature intended.</em></p>
+            <br>
+        <!--our mission-->
+            <h1>🚜 From Farm to You</h1>
+            <p><em>We are committed to delivering fruits that are:</em></p>
+            <ul>
+                <li><em>Freshly picked from trusted farms</em></li>
+                <li><em>Naturally grown with care and sustainability</em></li>
+                <li><em>Packed with nutrition to support a healthy lifestyle</em></li>
+            </ul>
+        </div>
+
+     
+        
+    </div>
+
+
+    <button type="button" class="btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">
+  Tooltip on bottom
+</button>

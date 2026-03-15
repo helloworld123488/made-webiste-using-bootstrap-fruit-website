@@ -1,0 +1,43 @@
+/* adding color for text under the title in card */
+.card-text{
+    color:#00422B;
+}
+
+/* adding font-family for title */
+.card-title{
+        font-family:Helvetica, Arial, sans-serif;
+        color:#212121
+}
+
+/* border for cards */
+.card{
+    border:1px solid #212121;
+}
+
+/* adding whitesmoke for card in the card body */
+.card-body{
+    background-color: whitesmoke;
+}
+
+
+/* adding deepskyblue color for navbar when hover  */
+.hovr-bodrbottom:hover{
+    border-bottom:3px solid deepskyblue;
+}
+
+/* adding darkmode in website */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode .nav-link {
+  color: #f8f9fa;
+}
+
+#darkModeToggle{
+    position:absolute;
+    margin-top:8px;
+    width: 40px;
+    height:38px;
+}
